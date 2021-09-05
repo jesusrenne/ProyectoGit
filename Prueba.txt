@@ -1,0 +1,5 @@
+Aprendiendo a usar el programa de repositorios Git.
+
+Estamos agregando más texto. Ésta será la versión 2.0
+
+Jesús René
